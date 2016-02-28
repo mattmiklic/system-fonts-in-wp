@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: System fonts in WP
-Plugin URI: http://mattmiklic.com
+Plugin URI: https://github.com/mattmiklic/system-fonts-in-wp
 Description: Replaces Open Sans with system fonts in WordPress.
 Version: 0.1
 Author: Matt Miklic
