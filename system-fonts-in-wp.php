@@ -6,8 +6,6 @@ Description: Replaces Open Sans with system fonts in WordPress.
 Version: 0.1
 Author: Matt Miklic
 Author URI: http://mattmiklic.com
-Text Domain: fonts
-Domain Path: /languages
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
