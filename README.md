@@ -2,7 +2,7 @@
 
 A plugin that replaces Open Sans in WordPress with your device's standard system fonts.
 
-There are other plugins that remove Open Sans, but they rely on the generic `sans-serif` fallback. This one adds a new stylesheet that specifies the system UI font for most major OS platforms.
+There are other plugins that remove Open Sans, but they rely on the generic `sans-serif` fallback. This one adds a new stylesheet that specifies the system UI font for most major operating systems.
 
 This is based on the approach we developed for WordPress.com and Calypso. For more background, see: http://github.com/Automattic/wp-calypso/pull/3016
 
