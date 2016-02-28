@@ -18,6 +18,7 @@ if (!function_exists('remove_wp_open_sans')) :
 
 	add_action('wp_enqueue_scripts', 'remove_wp_open_sans');
 	add_action('admin_enqueue_scripts', 'remove_wp_open_sans');
+	add_action('login_enqueue_scripts', 'remove_wp_open_sans');
 endif;
 
 if (!function_exists('add_system_fonts')) :
@@ -28,4 +29,5 @@ if (!function_exists('add_system_fonts')) :
 
 	add_action('wp_enqueue_scripts', 'add_system_fonts');
 	add_action('admin_enqueue_scripts', 'add_system_fonts');
+	add_action('login_enqueue_scripts', 'add_system_fonts');
 endif;
