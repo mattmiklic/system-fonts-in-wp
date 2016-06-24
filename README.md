@@ -1,6 +1,6 @@
 # system-fonts-in-wp
 
-A plugin for WordPress that replaces Open Sans with your device's standard system fonts.
+A plugin for WordPress that replaces Open Sans with your device's standard user interface typeface.
 
 There are other plugins that remove Open Sans, but they rely on the generic `sans-serif` fallback. This one adds a new stylesheet that specifies the system UI font for most major operating systems.
 
