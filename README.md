@@ -1,5 +1,7 @@
 # system-fonts-in-wp
 
+**Edit, July 7:** WordPress 4.6, now in beta, has switched to system fonts. 🎉 You should deactivate this plugin if you're using WordPress 4.6 or higher.
+
 A plugin for WordPress that replaces Open Sans with your device's standard user interface typeface.
 
 There are other plugins that remove Open Sans, but they rely on the generic `sans-serif` fallback. This one adds a new stylesheet that specifies the system UI font for most major operating systems.
