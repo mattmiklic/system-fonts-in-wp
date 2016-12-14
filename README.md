@@ -1,6 +1,16 @@
 # system-fonts-in-wp
 
-**Update:** WordPress 4.6 has switched to system fonts. 🎉 You should deactivate this plugin if you're using WordPress 4.6 or higher.
+WordPress 4.6 has switched to system fonts. 🎉 You should deactivate this plugin if you're using WordPress 4.6 or higher.
+
+#### Read More
+
+* [Native Fonts in 4.6](https://make.wordpress.org/core/2016/07/07/native-fonts-in-4-6/)
+* [Font Natively](https://make.wordpress.org/core/features/font-natively/)
+* [#36753: Use system fonts for a faster, more native-feeling admin](https://core.trac.wordpress.org/ticket/36753)
+
+---------------------
+
+#### Original Description
 
 A plugin for WordPress that replaces Open Sans with your device's standard user interface typeface.
 
